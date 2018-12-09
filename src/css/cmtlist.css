@@ -1,0 +1,9 @@
+.title {
+    color: red;
+    text-align: center;
+    font-style: initial;
+}
+
+:global(.test) {
+    background-color: yellow;
+}
